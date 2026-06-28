@@ -49,4 +49,4 @@ Survive as long as possible, avoid obstacles, and collect maximum coins to achie
 
 ## 👨‍💻 Author
 
-Abdullah
+Muhammad Abdullah Khan
